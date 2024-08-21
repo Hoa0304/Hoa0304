@@ -1,4 +1,3 @@
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100022787133423) 
 
@@ -25,6 +24,4 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/Hoa0304/Hoa0304/blob/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/>
 </div>
